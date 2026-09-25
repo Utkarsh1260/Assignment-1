@@ -2,6 +2,12 @@
 
 ## 📌 Project Overview
 
+
+**Live Demo:**
+[View Live Project](https://assignment-1-liart-mu.vercel.app/)
+
+---
+
 A **frontend UI recreation project** built from scratch using **HTML5 and CSS3**, based on a provided Pokémon-themed visual design.
 
 The primary objective of this project was to understand and implement **CSS positioning properties** such as `position: relative` and `position: absolute` while recreating a complete UI layout as closely as possible to the reference design.
@@ -244,13 +250,6 @@ Potential improvements for future iterations:
 * Add JavaScript-based interactions
 * Convert the static UI into a reusable component-based interface
 
----
-
-## 🔗 Project Links
-
-
-**Live Demo:**
-`[ADD_LIVE_LINK_HERE](https://assignment-1-liart-mu.vercel.app/)`
 
 ---
 
