@@ -1,0 +1,132 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: ui-sans-serif, -apple-system, BlinkMacSystemFont, "Segoe UI Variable Display", "Segoe UI", Helvetica, "Apple Color Emoji", "Noto Sans Arabic", "Noto Sans Hebrew", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+
+html,body{
+    width: 100%;
+    height: 100%;
+
+}
+
+body{
+    padding: 20px;
+}
+
+
+.layout1{
+    position: relative;
+    background-color: red;
+    height: 100%;
+    border-radius: 10px;
+    background: linear-gradient(
+        to right,
+        #FCC60C 60%,
+        #FBE8B5 40%
+    );
+      overflow: hidden;
+}
+
+
+.layout1 .plogo{
+    width: 150px;
+    position: absolute;
+    left: 40px;
+    top: 20px;
+  
+}
+
+.poko{
+    width: 400px;
+    height: 400px;
+    position: absolute;
+    left: 600px;
+    top: 80px;
+}
+
+.pball{
+    position: relative;
+    width: 170px;
+    height:170px;
+
+     opacity: 0.2;
+     top: 436px;
+     left: 20px;
+}
+
+
+
+
+
+.p1{
+
+    background-color: #FCC60C;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+}
+
+.menu{
+    position: absolute;
+    left: 1175px;
+    top: 20px;
+    font-size: 35px;
+}
+
+
+.points{
+     position: absolute;
+     top: 250px;
+    left: 1200px;
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+
+.textContent{
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    top: 155px;
+    left: 50px;
+    max-width: 320px;
+    gap: 20px;
+}
+
+.textContent p:first-child{
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 5px;
+    line-height: 0;
+}
+
+.textContent :nth-child(3){
+    font-size: 13px;
+  
+}
+
+
+
+.textContent h1{
+    font-size: 100px;
+    font-weight: 600;
+        line-height: 1;
+}
+
+.line{
+  height: 1px;
+  width: 30px;
+    border: 1.3px solid black;
+}
+
+.textContent :nth-child(4){
+    display: flex;
+    gap:12px;
+    align-items: center;
+
+}
