@@ -248,11 +248,9 @@ Potential improvements for future iterations:
 
 ## 🔗 Project Links
 
-**GitHub Repository:**
-`ADD_GITHUB_LINK_HERE`
 
 **Live Demo:**
-`ADD_LIVE_LINK_HERE`
+`[ADD_LIVE_LINK_HERE](https://assignment-1-liart-mu.vercel.app/)`
 
 ---
 
