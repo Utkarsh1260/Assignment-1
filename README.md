@@ -6,6 +6,9 @@
 **Live Demo:**
 [View Live Project](https://assignment-1-liart-mu.vercel.app/)
 
+
+<img src="./asset/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
+
 ---
 
 A **frontend UI recreation project** built from scratch using **HTML5 and CSS3**, based on a provided Pokémon-themed visual design.
